@@ -15,6 +15,14 @@ The following dependencies are recommended for the installation of the environme
 
 See requirements.txt for the detailed list of dependencies.
 
+**Note for Graph Transformer** This project utilizes **Cython** to accelerate complex graph algorithms (e.g., Floyd-Warshall for
+spatial positioning). You **must** compile the C extensions locally before running this repo on Graph Transformer.
+Run the following command in the root directory:
+```bash
+python setup.py build_ext --inplace
+```
+*Note:* If successful, you will see `.so` (Linux/Mac) or `.pyd` (Windows) files generated in the `algos/` directory.
+
 ## Dataset
 It is recommended to download the following datasets from the official website:
 
