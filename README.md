@@ -3,7 +3,7 @@
 PyTorch implementation of "A Multitask Active Learning Framework with Probabilistic Modeling for Multi-Species Acute Toxicity Prediction".
 
 <div align="center">
-  <img width="100%" alt="" src="PMAL.png">
+  <img width="50%" alt="" src="PMAL.png">
 </div>
 
 ## Setup
