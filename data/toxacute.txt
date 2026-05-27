@@ -1,0 +1,59 @@
+mouse_intraperitoneal_LD50,0.1,0.1
+mouse_intraperitoneal_LDLo,0.1,0.1
+mouse_intravenous_LD50,0.1,0.1
+mouse_intravenous_LDLo,0.1,0.1
+mouse_oral_LD50,0.1,0.1
+mouse_oral_LDLo,0.1,0.1
+mouse_unreported_LD50,0.1,0.1
+mouse_skin_LD50,0.1,0.1
+mouse_subcutaneous_LD50,0.1,0.1
+mouse_subcutaneous_LDLo,0.1,0.1
+mouse_intramuscular_LD50,0.1,0.1
+mouse_parenteral_LD50,0.1,0.1
+rat_intraperitoneal_LD50,0.1,0.1
+rat_intraperitoneal_LDLo,0.1,0.1
+rat_intravenous_LD50,0.1,0.1
+rat_intravenous_LDLo,0.1,0.1
+rat_oral_LD50,0.1,0.1
+rat_oral_LDLo,0.1,0.1
+rat_unreported_LD50,0.1,0.1
+rat_skin_LD50,0.1,0.1
+rat_subcutaneous_LD50,0.1,0.1
+rat_subcutaneous_LDLo,0.1,0.1
+rat_intramuscular_LD50,0.1,0.1
+mammal (species unspecified)_intraperitoneal_LD50,0.1,0.1
+mammal (species unspecified)_oral_LD50,0.1,0.1
+mammal (species unspecified)_unreported_LD50,0.1,0.1
+mammal (species unspecified)_subcutaneous_LD50,0.1,0.1
+guinea pig_intraperitoneal_LD50,0.1,0.1
+guinea pig_intravenous_LD50,0.1,0.1
+guinea pig_intravenous_LDLo,0.1,0.1
+guinea pig_oral_LD50,0.1,0.1
+guinea pig_skin_LD50,0.1,0.1
+guinea pig_subcutaneous_LD50,0.1,0.1
+guinea pig_subcutaneous_LDLo,0.1,0.1
+rabbit_intraperitoneal_LD50,0.1,0.1
+rabbit_intravenous_LD50,0.1,0.1
+rabbit_intravenous_LDLo,0.1,0.1
+rabbit_oral_LD50,0.1,0.1
+rabbit_oral_LDLo,0.1,0.1
+rabbit_skin_LD50,0.1,0.1
+rabbit_skin_LDLo,0.1,0.1
+rabbit_subcutaneous_LD50,0.1,0.1
+rabbit_subcutaneous_LDLo,0.1,0.1
+dog_intravenous_LD50,0.1,0.1
+dog_intravenous_LDLo,0.1,0.1
+dog_oral_LD50,0.1,0.1
+dog_oral_LDLo,0.1,0.1
+cat_intravenous_LD50,0.1,0.1
+cat_intravenous_LDLo,0.1,0.1
+cat_oral_LD50,0.1,0.1
+cat_oral_LDLo,0.1,0.1
+bird-wild_oral_LD50,0.1,0.1
+quail_oral_LD50,0.1,0.1
+duck_oral_LD50,0.1,0.1
+chicken_oral_LD50,0.1,0.1
+frog_subcutaneous_LDLo,0.1,0.1
+man_oral_TDLo,0.1,0.1
+women_oral_TDLo,0.1,0.1
+human_oral_TDLo,0.1,0.1

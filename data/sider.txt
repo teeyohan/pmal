@@ -1,0 +1,27 @@
+Hepatobiliary disorders,0.1,0.1
+Metabolism and nutrition disorders,0.1,0.1
+Product issues,0.1,0.1
+Eye disorders,0.1,0.1
+Investigations,0.1,0.1
+Musculoskeletal and connective tissue disorders,0.1,0.1
+Gastrointestinal disorders,0.1,0.1
+Social circumstances,0.1,0.1
+Immune system disorders,0.1,0.1
+Reproductive system and breast disorders,0.1,0.1
+Neoplasms benign malignant and unspecified (incl cysts and polyps),0.1,0.1
+General disorders and administration site conditions,0.1,0.1
+Endocrine disorders,0.1,0.1
+Surgical and medical procedures,0.1,0.1
+Vascular disorders,0.1,0.1
+Blood and lymphatic system disorders,0.1,0.1
+Skin and subcutaneous tissue disorders,0.1,0.1
+Congenital familial and genetic disorders,0.1,0.1
+Infections and infestations,0.1,0.1
+Respiratory thoracic and mediastinal disorders,0.1,0.1
+Psychiatric disorders,0.1,0.1
+Renal and urinary disorders,0.1,0.1
+Pregnancy puerperium and perinatal conditions,0.1,0.1
+Ear and labyrinth disorders,0.1,0.1
+Cardiac disorders,0.1,0.1
+Nervous system disorders,0.1,0.1
+Injury poisoning and procedural complications,0.1,0.1
