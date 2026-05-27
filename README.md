@@ -15,7 +15,7 @@ The following dependencies are recommended for the installation of the environme
 
 See requirements.txt for the detailed list of dependencies.
 
-**Tips for Graph Transformer** 
+## Extra Setup for Graph Transformer
 
 This project utilizes **Cython** to accelerate complex graph algorithms (e.g., Floyd-Warshall for spatial positioning). 
 
